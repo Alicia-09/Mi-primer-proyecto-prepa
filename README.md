@@ -11,3 +11,4 @@ Un proyecto de ejemplo para aprender Git y GitHub
 
 # Fotografia
 
+<img width="150" height="190" alt="image" src="https://github.com/user-attachments/assets/98f721df-c28d-4eff-9b21-34e6944e86da" />
